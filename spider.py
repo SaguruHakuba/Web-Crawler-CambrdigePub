@@ -6,14 +6,18 @@ from lxml import etree
 import time
 import os
 
-start_page = 1
-end_page = 122 + 16
+import logging
+logging.basicConfig(filename='spider_log.log',level=logging.DEBUG)
+
+start_page = 0
+end_page = 500
 book_number = 9140
+cookie_str = 'auth_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOiIyMDIzODM0IiwiaXNzIjoid3d3Lm5ldGdlYXIuY29tIiwic3ViIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbw==.eeaab4505772a060bafb07e19b04b4b5417b9fa3f5412865e58781b3e8391e03; _ga=GA1.2.770111770.1566425870; csrf_cpb_cookie=0ae29338696eb51d6a207595db725f19; _gid=GA1.2.1298927245.1566573228; _gat=1; ublish_alert_delay=true; ublish_cpb=htq2e013i3h6njp8dmlj2i5go347kf2g'
 dictionary = "./" + str(book_number)
 
 # headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Referer': 'https://cambridgepub.com/ereader/9140/?preview', 'Sec-Fetch-Mode': 'no-cors'}
 headers = {
-    'Cookie' : 'auth_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOiIyMDIzODM0IiwiaXNzIjoid3d3Lm5ldGdlYXIuY29tIiwic3ViIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbw==.eeaab4505772a060bafb07e19b04b4b5417b9fa3f5412865e58781b3e8391e03; csrf_cpb_cookie=6c86b3c12af0222e7a217ef8bf251436; _ga=GA1.2.770111770.1566425870; _gid=GA1.2.203320899.1566425870; ublish_cpb=0fi3bqht02irjhbgnhnjlphrr054amja',
+    'Cookie' : cookie_str,
     'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
     'Sec-Fetch-Mode': 'navigate'
 }
@@ -28,7 +32,7 @@ def format_url(start, end):
         urls.append(url)
     return urls
 
-urls = format_url(150, 160)
+urls = format_url(start_page, end_page)
 
 def parse_base_info (url, headers = headers, number = '', ip = ''):
     if ip == '':
@@ -48,11 +52,12 @@ def parse_base_info (url, headers = headers, number = '', ip = ''):
     except:
         return False
 
-count = 1
+count = start_page + 1
 for url in urls:
     df = parse_base_info(url, headers = headers, number = count)
     if df == False:
         break
     time.sleep(0.1)
-    print('I had crawled page of %d' % count)
+    print('Downloading page %d of book %d' % (count, book_number))
+    logging.info("I am downloading book number %d page %d" % (book_number, count))
     count += 1
