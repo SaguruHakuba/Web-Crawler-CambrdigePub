@@ -10,10 +10,14 @@ import logging
 logging.basicConfig(filename='spider_log.log',level=logging.DEBUG)
 
 start_page = 0
-end_page = 500
+end_page = 10
 book_number = 9140
-cookie_str = 'auth_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOiIyMDIzODM0IiwiaXNzIjoid3d3Lm5ldGdlYXIuY29tIiwic3ViIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbw==.eeaab4505772a060bafb07e19b04b4b5417b9fa3f5412865e58781b3e8391e03; _ga=GA1.2.770111770.1566425870; csrf_cpb_cookie=0ae29338696eb51d6a207595db725f19; _gid=GA1.2.1298927245.1566573228; _gat=1; ublish_alert_delay=true; ublish_cpb=htq2e013i3h6njp8dmlj2i5go347kf2g'
+cookie_str = 'auth_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOiIyMDIzODM0IiwiaXNzIjoid3d3Lm5ldGdlYXIuY29tIiwic3ViIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbw==.eeaab4505772a060bafb07e19b04b4b5417b9fa3f5412865e58781b3e8391e03; _ga=GA1.2.770111770.1566425870; csrf_cpb_cookie=0ae29338696eb51d6a207595db725f19; _gid=GA1.2.1298927245.1566573228; ublish_cpb=htq2e013i3h6njp8dmlj2i5go347kf2g'
 dictionary = "./" + str(book_number)
+
+if start_page > end_page:
+    logging.warn("Start page shall not be smaller than end page.")
+logging.info("Start downloading book %d, start from page %d, to page %d" % (book_number, start_page, end_page))
 
 # headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Referer': 'https://cambridgepub.com/ereader/9140/?preview', 'Sec-Fetch-Mode': 'no-cors'}
 headers = {
