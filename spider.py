@@ -13,7 +13,7 @@ start_page = 0
 end_page = 200
 book_number = 9140
 # cookie_str = 'auth_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOiIyMDIzODM0IiwiaXNzIjoid3d3Lm5ldGdlYXIuY29tIiwic3ViIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbw==.eeaab4505772a060bafb07e19b04b4b5417b9fa3f5412865e58781b3e8391e03; _ga=GA1.2.770111770.1566425870; _gid=GA1.2.1298927245.1566573228; csrf_cpb_cookie=2480f0264902ca17021cfe3b7ae78021; ublish_cpb=haeeh09ifnvpnu29o80igturrhl8ssfj; _gat=1; ublish_alert_delay=true'
-cookie_str = '_ga=GA1.2.770111770.1566425870; csrf_cpb_cookie=80f6d4a4ffe6b242c7c090b9a261c148; _gid=GA1.2.471324130.1578568966; ublish_cpb=taqdq9jeuf9qgj0iors17d2s2i4bvimq'
+cookie_str = '_ga=GA1.2.770111770.1566425870; _gid=GA1.2.471324130.1578568966; csrf_cpb_cookie=8519c9b39bee04897e3564f07b3d6cac; _gat=1; ublish_alert_delay=true; ublish_cpb=224s8rqf4l9u848c5qf875co340nnjdc'
 
 dictionary = "./" + str(book_number)
 

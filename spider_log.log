@@ -1425,3 +1425,1475 @@ INFO:root:I am downloading book number 9140 page 3
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
 DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/3.html?client=cpb&type=1 HTTP/1.1" 200 6047
 INFO:root:Finished downloading book 9140, last page 4
+INFO:root:Start downloading book 9140, start from page 0, to page 200
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/0.html?client=cpb&type=1 HTTP/1.1" 200 1449
+INFO:root:I am downloading book number 9140 page 1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/1.html?client=cpb&type=1 HTTP/1.1" 401 None
+WARNING:root:Missing image! Download is not complete
+INFO:root:Finished downloading book 9140, last page 2
+INFO:root:Start downloading book 9140, start from page 0, to page 200
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/0.html?client=cpb&type=1 HTTP/1.1" 200 1449
+INFO:root:I am downloading book number 9140 page 1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/1.html?client=cpb&type=1 HTTP/1.1" 200 2985
+INFO:root:I am downloading book number 9140 page 2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/2.html?client=cpb&type=1 HTTP/1.1" 200 5526
+INFO:root:I am downloading book number 9140 page 3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/3.html?client=cpb&type=1 HTTP/1.1" 200 6047
+INFO:root:I am downloading book number 9140 page 4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/4.html?client=cpb&type=1 HTTP/1.1" 200 5276
+INFO:root:I am downloading book number 9140 page 5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/5.html?client=cpb&type=1 HTTP/1.1" 200 4982
+INFO:root:I am downloading book number 9140 page 6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/6.html?client=cpb&type=1 HTTP/1.1" 200 9247
+INFO:root:I am downloading book number 9140 page 7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/7.html?client=cpb&type=1 HTTP/1.1" 200 7497
+INFO:root:I am downloading book number 9140 page 8
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/8.html?client=cpb&type=1 HTTP/1.1" 200 9939
+INFO:root:I am downloading book number 9140 page 9
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/9.html?client=cpb&type=1 HTTP/1.1" 200 9034
+INFO:root:I am downloading book number 9140 page 10
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/10.html?client=cpb&type=1 HTTP/1.1" 200 2181
+INFO:root:I am downloading book number 9140 page 11
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/11.html?client=cpb&type=1 HTTP/1.1" 200 4523
+INFO:root:I am downloading book number 9140 page 12
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/12.html?client=cpb&type=1 HTTP/1.1" 200 4785
+INFO:root:I am downloading book number 9140 page 13
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/13.html?client=cpb&type=1 HTTP/1.1" 200 5949
+INFO:root:I am downloading book number 9140 page 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/14.html?client=cpb&type=1 HTTP/1.1" 200 5109
+INFO:root:I am downloading book number 9140 page 15
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/15.html?client=cpb&type=1 HTTP/1.1" 200 4856
+INFO:root:I am downloading book number 9140 page 16
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/16.html?client=cpb&type=1 HTTP/1.1" 200 1526
+INFO:root:I am downloading book number 9140 page 17
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/17.html?client=cpb&type=1 HTTP/1.1" 200 5332
+INFO:root:I am downloading book number 9140 page 18
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/18.html?client=cpb&type=1 HTTP/1.1" 200 3767
+INFO:root:I am downloading book number 9140 page 19
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/19.html?client=cpb&type=1 HTTP/1.1" 200 4884
+INFO:root:I am downloading book number 9140 page 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/20.html?client=cpb&type=1 HTTP/1.1" 200 8679
+INFO:root:I am downloading book number 9140 page 21
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/21.html?client=cpb&type=1 HTTP/1.1" 200 6052
+INFO:root:I am downloading book number 9140 page 22
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/22.html?client=cpb&type=1 HTTP/1.1" 200 9089
+INFO:root:I am downloading book number 9140 page 23
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/23.html?client=cpb&type=1 HTTP/1.1" 200 5460
+INFO:root:I am downloading book number 9140 page 24
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/24.html?client=cpb&type=1 HTTP/1.1" 200 5694
+INFO:root:I am downloading book number 9140 page 25
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/25.html?client=cpb&type=1 HTTP/1.1" 200 5978
+INFO:root:I am downloading book number 9140 page 26
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/26.html?client=cpb&type=1 HTTP/1.1" 200 7719
+INFO:root:I am downloading book number 9140 page 27
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/27.html?client=cpb&type=1 HTTP/1.1" 200 6068
+INFO:root:I am downloading book number 9140 page 28
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/28.html?client=cpb&type=1 HTTP/1.1" 200 5268
+INFO:root:I am downloading book number 9140 page 29
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/29.html?client=cpb&type=1 HTTP/1.1" 200 6593
+INFO:root:I am downloading book number 9140 page 30
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/30.html?client=cpb&type=1 HTTP/1.1" 200 7410
+INFO:root:I am downloading book number 9140 page 31
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/31.html?client=cpb&type=1 HTTP/1.1" 200 7721
+INFO:root:I am downloading book number 9140 page 32
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/32.html?client=cpb&type=1 HTTP/1.1" 200 6173
+INFO:root:I am downloading book number 9140 page 33
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/33.html?client=cpb&type=1 HTTP/1.1" 200 6141
+INFO:root:I am downloading book number 9140 page 34
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/34.html?client=cpb&type=1 HTTP/1.1" 200 6209
+INFO:root:I am downloading book number 9140 page 35
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/35.html?client=cpb&type=1 HTTP/1.1" 200 7316
+INFO:root:I am downloading book number 9140 page 36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/36.html?client=cpb&type=1 HTTP/1.1" 200 7183
+INFO:root:I am downloading book number 9140 page 37
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/37.html?client=cpb&type=1 HTTP/1.1" 200 5484
+INFO:root:I am downloading book number 9140 page 38
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/38.html?client=cpb&type=1 HTTP/1.1" 200 6531
+INFO:root:I am downloading book number 9140 page 39
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/39.html?client=cpb&type=1 HTTP/1.1" 200 7794
+INFO:root:I am downloading book number 9140 page 40
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/40.html?client=cpb&type=1 HTTP/1.1" 200 8255
+INFO:root:I am downloading book number 9140 page 41
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/41.html?client=cpb&type=1 HTTP/1.1" 200 6606
+INFO:root:I am downloading book number 9140 page 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/42.html?client=cpb&type=1 HTTP/1.1" 200 6361
+INFO:root:I am downloading book number 9140 page 43
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/43.html?client=cpb&type=1 HTTP/1.1" 200 6189
+INFO:root:I am downloading book number 9140 page 44
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/44.html?client=cpb&type=1 HTTP/1.1" 200 7635
+INFO:root:I am downloading book number 9140 page 45
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/45.html?client=cpb&type=1 HTTP/1.1" 200 5754
+INFO:root:I am downloading book number 9140 page 46
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/46.html?client=cpb&type=1 HTTP/1.1" 200 6859
+INFO:root:I am downloading book number 9140 page 47
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/47.html?client=cpb&type=1 HTTP/1.1" 200 5463
+INFO:root:I am downloading book number 9140 page 48
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/48.html?client=cpb&type=1 HTTP/1.1" 200 7522
+INFO:root:I am downloading book number 9140 page 49
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/49.html?client=cpb&type=1 HTTP/1.1" 200 5112
+INFO:root:I am downloading book number 9140 page 50
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/50.html?client=cpb&type=1 HTTP/1.1" 200 6591
+INFO:root:I am downloading book number 9140 page 51
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/51.html?client=cpb&type=1 HTTP/1.1" 200 5749
+INFO:root:I am downloading book number 9140 page 52
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/52.html?client=cpb&type=1 HTTP/1.1" 200 5390
+INFO:root:I am downloading book number 9140 page 53
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/53.html?client=cpb&type=1 HTTP/1.1" 200 5243
+INFO:root:I am downloading book number 9140 page 54
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/54.html?client=cpb&type=1 HTTP/1.1" 200 6162
+INFO:root:I am downloading book number 9140 page 55
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/55.html?client=cpb&type=1 HTTP/1.1" 200 5690
+INFO:root:I am downloading book number 9140 page 56
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/56.html?client=cpb&type=1 HTTP/1.1" 200 4459
+INFO:root:I am downloading book number 9140 page 57
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/57.html?client=cpb&type=1 HTTP/1.1" 200 3335
+INFO:root:I am downloading book number 9140 page 58
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/58.html?client=cpb&type=1 HTTP/1.1" 200 320
+INFO:root:I am downloading book number 9140 page 59
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/59.html?client=cpb&type=1 HTTP/1.1" 200 5489
+INFO:root:I am downloading book number 9140 page 60
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/60.html?client=cpb&type=1 HTTP/1.1" 200 2773
+INFO:root:I am downloading book number 9140 page 61
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/61.html?client=cpb&type=1 HTTP/1.1" 200 5948
+INFO:root:I am downloading book number 9140 page 62
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/62.html?client=cpb&type=1 HTTP/1.1" 200 8764
+INFO:root:I am downloading book number 9140 page 63
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/63.html?client=cpb&type=1 HTTP/1.1" 200 7311
+INFO:root:I am downloading book number 9140 page 64
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/64.html?client=cpb&type=1 HTTP/1.1" 200 7424
+INFO:root:I am downloading book number 9140 page 65
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/65.html?client=cpb&type=1 HTTP/1.1" 200 6569
+INFO:root:I am downloading book number 9140 page 66
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/66.html?client=cpb&type=1 HTTP/1.1" 200 7600
+INFO:root:I am downloading book number 9140 page 67
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/67.html?client=cpb&type=1 HTTP/1.1" 200 6212
+INFO:root:I am downloading book number 9140 page 68
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/68.html?client=cpb&type=1 HTTP/1.1" 200 7190
+INFO:root:I am downloading book number 9140 page 69
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/69.html?client=cpb&type=1 HTTP/1.1" 200 8776
+INFO:root:I am downloading book number 9140 page 70
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/70.html?client=cpb&type=1 HTTP/1.1" 200 5195
+INFO:root:I am downloading book number 9140 page 71
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/71.html?client=cpb&type=1 HTTP/1.1" 200 5111
+INFO:root:I am downloading book number 9140 page 72
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/72.html?client=cpb&type=1 HTTP/1.1" 200 5608
+INFO:root:I am downloading book number 9140 page 73
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/73.html?client=cpb&type=1 HTTP/1.1" 200 5147
+INFO:root:I am downloading book number 9140 page 74
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/74.html?client=cpb&type=1 HTTP/1.1" 200 6970
+INFO:root:I am downloading book number 9140 page 75
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/75.html?client=cpb&type=1 HTTP/1.1" 200 6240
+INFO:root:I am downloading book number 9140 page 76
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/76.html?client=cpb&type=1 HTTP/1.1" 200 7519
+INFO:root:I am downloading book number 9140 page 77
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/77.html?client=cpb&type=1 HTTP/1.1" 200 6550
+INFO:root:I am downloading book number 9140 page 78
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/78.html?client=cpb&type=1 HTTP/1.1" 200 7386
+INFO:root:I am downloading book number 9140 page 79
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/79.html?client=cpb&type=1 HTTP/1.1" 200 6527
+INFO:root:I am downloading book number 9140 page 80
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/80.html?client=cpb&type=1 HTTP/1.1" 200 6239
+INFO:root:I am downloading book number 9140 page 81
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/81.html?client=cpb&type=1 HTTP/1.1" 200 6171
+INFO:root:I am downloading book number 9140 page 82
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/82.html?client=cpb&type=1 HTTP/1.1" 200 7479
+INFO:root:I am downloading book number 9140 page 83
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/83.html?client=cpb&type=1 HTTP/1.1" 200 6808
+INFO:root:I am downloading book number 9140 page 84
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/84.html?client=cpb&type=1 HTTP/1.1" 200 7481
+INFO:root:I am downloading book number 9140 page 85
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/85.html?client=cpb&type=1 HTTP/1.1" 200 6662
+INFO:root:I am downloading book number 9140 page 86
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/86.html?client=cpb&type=1 HTTP/1.1" 200 6263
+INFO:root:I am downloading book number 9140 page 87
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/87.html?client=cpb&type=1 HTTP/1.1" 200 7626
+INFO:root:I am downloading book number 9140 page 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/88.html?client=cpb&type=1 HTTP/1.1" 200 4607
+INFO:root:I am downloading book number 9140 page 89
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/89.html?client=cpb&type=1 HTTP/1.1" 200 7842
+INFO:root:I am downloading book number 9140 page 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/90.html?client=cpb&type=1 HTTP/1.1" 200 6285
+INFO:root:I am downloading book number 9140 page 91
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/91.html?client=cpb&type=1 HTTP/1.1" 200 5920
+INFO:root:I am downloading book number 9140 page 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/92.html?client=cpb&type=1 HTTP/1.1" 200 6913
+INFO:root:I am downloading book number 9140 page 93
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/93.html?client=cpb&type=1 HTTP/1.1" 200 7512
+INFO:root:I am downloading book number 9140 page 94
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/94.html?client=cpb&type=1 HTTP/1.1" 200 6593
+INFO:root:I am downloading book number 9140 page 95
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/95.html?client=cpb&type=1 HTTP/1.1" 200 6239
+INFO:root:I am downloading book number 9140 page 96
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/96.html?client=cpb&type=1 HTTP/1.1" 200 6576
+INFO:root:I am downloading book number 9140 page 97
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/97.html?client=cpb&type=1 HTTP/1.1" 200 6827
+INFO:root:I am downloading book number 9140 page 98
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/98.html?client=cpb&type=1 HTTP/1.1" 200 6764
+INFO:root:I am downloading book number 9140 page 99
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/99.html?client=cpb&type=1 HTTP/1.1" 200 6859
+INFO:root:I am downloading book number 9140 page 100
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/100.html?client=cpb&type=1 HTTP/1.1" 200 7890
+INFO:root:I am downloading book number 9140 page 101
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/101.html?client=cpb&type=1 HTTP/1.1" 200 5919
+INFO:root:I am downloading book number 9140 page 102
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/102.html?client=cpb&type=1 HTTP/1.1" 200 7325
+INFO:root:I am downloading book number 9140 page 103
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/103.html?client=cpb&type=1 HTTP/1.1" 200 8907
+INFO:root:I am downloading book number 9140 page 104
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/104.html?client=cpb&type=1 HTTP/1.1" 200 8236
+INFO:root:I am downloading book number 9140 page 105
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/105.html?client=cpb&type=1 HTTP/1.1" 200 6116
+INFO:root:I am downloading book number 9140 page 106
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/106.html?client=cpb&type=1 HTTP/1.1" 200 7158
+INFO:root:I am downloading book number 9140 page 107
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/107.html?client=cpb&type=1 HTTP/1.1" 200 7573
+INFO:root:I am downloading book number 9140 page 108
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/108.html?client=cpb&type=1 HTTP/1.1" 200 6948
+INFO:root:I am downloading book number 9140 page 109
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/109.html?client=cpb&type=1 HTTP/1.1" 200 5433
+INFO:root:I am downloading book number 9140 page 110
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/110.html?client=cpb&type=1 HTTP/1.1" 200 5645
+INFO:root:I am downloading book number 9140 page 111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/111.html?client=cpb&type=1 HTTP/1.1" 200 5427
+INFO:root:I am downloading book number 9140 page 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/112.html?client=cpb&type=1 HTTP/1.1" 200 6582
+INFO:root:I am downloading book number 9140 page 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/113.html?client=cpb&type=1 HTTP/1.1" 200 6453
+INFO:root:I am downloading book number 9140 page 114
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/114.html?client=cpb&type=1 HTTP/1.1" 200 6477
+INFO:root:I am downloading book number 9140 page 115
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/115.html?client=cpb&type=1 HTTP/1.1" 200 5521
+INFO:root:I am downloading book number 9140 page 116
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/116.html?client=cpb&type=1 HTTP/1.1" 200 6269
+INFO:root:I am downloading book number 9140 page 117
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/117.html?client=cpb&type=1 HTTP/1.1" 200 6320
+INFO:root:I am downloading book number 9140 page 118
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/118.html?client=cpb&type=1 HTTP/1.1" 200 6201
+INFO:root:I am downloading book number 9140 page 119
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/119.html?client=cpb&type=1 HTTP/1.1" 200 6363
+INFO:root:I am downloading book number 9140 page 120
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/120.html?client=cpb&type=1 HTTP/1.1" 200 6156
+INFO:root:I am downloading book number 9140 page 121
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/121.html?client=cpb&type=1 HTTP/1.1" 200 5710
+INFO:root:I am downloading book number 9140 page 122
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/122.html?client=cpb&type=1 HTTP/1.1" 200 6758
+INFO:root:I am downloading book number 9140 page 123
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/123.html?client=cpb&type=1 HTTP/1.1" 200 7367
+INFO:root:I am downloading book number 9140 page 124
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/124.html?client=cpb&type=1 HTTP/1.1" 200 6932
+INFO:root:I am downloading book number 9140 page 125
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/125.html?client=cpb&type=1 HTTP/1.1" 200 6680
+INFO:root:I am downloading book number 9140 page 126
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/126.html?client=cpb&type=1 HTTP/1.1" 200 7708
+INFO:root:I am downloading book number 9140 page 127
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/127.html?client=cpb&type=1 HTTP/1.1" 200 4359
+INFO:root:I am downloading book number 9140 page 128
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/128.html?client=cpb&type=1 HTTP/1.1" 200 5840
+INFO:root:I am downloading book number 9140 page 129
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/129.html?client=cpb&type=1 HTTP/1.1" 200 5492
+INFO:root:I am downloading book number 9140 page 130
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/130.html?client=cpb&type=1 HTTP/1.1" 200 5512
+INFO:root:I am downloading book number 9140 page 131
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/131.html?client=cpb&type=1 HTTP/1.1" 200 6872
+INFO:root:I am downloading book number 9140 page 132
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/132.html?client=cpb&type=1 HTTP/1.1" 200 4843
+INFO:root:I am downloading book number 9140 page 133
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/133.html?client=cpb&type=1 HTTP/1.1" 200 6418
+INFO:root:I am downloading book number 9140 page 134
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/134.html?client=cpb&type=1 HTTP/1.1" 200 3961
+INFO:root:I am downloading book number 9140 page 135
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/135.html?client=cpb&type=1 HTTP/1.1" 200 5001
+INFO:root:I am downloading book number 9140 page 136
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/136.html?client=cpb&type=1 HTTP/1.1" 200 5096
+INFO:root:I am downloading book number 9140 page 137
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/137.html?client=cpb&type=1 HTTP/1.1" 200 3614
+INFO:root:I am downloading book number 9140 page 138
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/138.html?client=cpb&type=1 HTTP/1.1" 200 321
+INFO:root:I am downloading book number 9140 page 139
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/139.html?client=cpb&type=1 HTTP/1.1" 200 4700
+INFO:root:I am downloading book number 9140 page 140
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/140.html?client=cpb&type=1 HTTP/1.1" 200 2485
+INFO:root:I am downloading book number 9140 page 141
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/141.html?client=cpb&type=1 HTTP/1.1" 200 5866
+INFO:root:I am downloading book number 9140 page 142
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/142.html?client=cpb&type=1 HTTP/1.1" 200 6618
+INFO:root:I am downloading book number 9140 page 143
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/143.html?client=cpb&type=1 HTTP/1.1" 200 7232
+INFO:root:I am downloading book number 9140 page 144
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/144.html?client=cpb&type=1 HTTP/1.1" 200 5932
+INFO:root:I am downloading book number 9140 page 145
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/145.html?client=cpb&type=1 HTTP/1.1" 200 6888
+INFO:root:I am downloading book number 9140 page 146
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/146.html?client=cpb&type=1 HTTP/1.1" 200 7212
+INFO:root:I am downloading book number 9140 page 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/147.html?client=cpb&type=1 HTTP/1.1" 200 5990
+INFO:root:I am downloading book number 9140 page 148
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/148.html?client=cpb&type=1 HTTP/1.1" 200 5092
+INFO:root:I am downloading book number 9140 page 149
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/149.html?client=cpb&type=1 HTTP/1.1" 200 6033
+INFO:root:I am downloading book number 9140 page 150
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/150.html?client=cpb&type=1 HTTP/1.1" 200 6402
+INFO:root:I am downloading book number 9140 page 151
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/151.html?client=cpb&type=1 HTTP/1.1" 200 5252
+INFO:root:I am downloading book number 9140 page 152
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/152.html?client=cpb&type=1 HTTP/1.1" 200 5661
+INFO:root:I am downloading book number 9140 page 153
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/153.html?client=cpb&type=1 HTTP/1.1" 200 5139
+INFO:root:I am downloading book number 9140 page 154
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/154.html?client=cpb&type=1 HTTP/1.1" 200 5759
+INFO:root:I am downloading book number 9140 page 155
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/155.html?client=cpb&type=1 HTTP/1.1" 200 6096
+INFO:root:I am downloading book number 9140 page 156
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/156.html?client=cpb&type=1 HTTP/1.1" 200 7677
+INFO:root:I am downloading book number 9140 page 157
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/157.html?client=cpb&type=1 HTTP/1.1" 200 6396
+INFO:root:I am downloading book number 9140 page 158
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/158.html?client=cpb&type=1 HTTP/1.1" 200 5748
+INFO:root:I am downloading book number 9140 page 159
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/159.html?client=cpb&type=1 HTTP/1.1" 200 6615
+INFO:root:I am downloading book number 9140 page 160
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/160.html?client=cpb&type=1 HTTP/1.1" 200 5969
+INFO:root:I am downloading book number 9140 page 161
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/161.html?client=cpb&type=1 HTTP/1.1" 200 6779
+INFO:root:I am downloading book number 9140 page 162
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/162.html?client=cpb&type=1 HTTP/1.1" 200 5852
+INFO:root:I am downloading book number 9140 page 163
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/163.html?client=cpb&type=1 HTTP/1.1" 200 6917
+INFO:root:I am downloading book number 9140 page 164
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/164.html?client=cpb&type=1 HTTP/1.1" 200 6645
+INFO:root:I am downloading book number 9140 page 165
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/165.html?client=cpb&type=1 HTTP/1.1" 200 5923
+INFO:root:I am downloading book number 9140 page 166
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/166.html?client=cpb&type=1 HTTP/1.1" 200 7653
+INFO:root:I am downloading book number 9140 page 167
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/167.html?client=cpb&type=1 HTTP/1.1" 200 6514
+INFO:root:I am downloading book number 9140 page 168
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/168.html?client=cpb&type=1 HTTP/1.1" 200 5910
+INFO:root:I am downloading book number 9140 page 169
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/169.html?client=cpb&type=1 HTTP/1.1" 200 6976
+INFO:root:I am downloading book number 9140 page 170
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/170.html?client=cpb&type=1 HTTP/1.1" 200 5343
+INFO:root:I am downloading book number 9140 page 171
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/171.html?client=cpb&type=1 HTTP/1.1" 200 6557
+INFO:root:I am downloading book number 9140 page 172
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/172.html?client=cpb&type=1 HTTP/1.1" 200 6443
+INFO:root:I am downloading book number 9140 page 173
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/173.html?client=cpb&type=1 HTTP/1.1" 200 7033
+INFO:root:I am downloading book number 9140 page 174
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/174.html?client=cpb&type=1 HTTP/1.1" 200 6909
+INFO:root:I am downloading book number 9140 page 175
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/175.html?client=cpb&type=1 HTTP/1.1" 200 5895
+INFO:root:I am downloading book number 9140 page 176
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/176.html?client=cpb&type=1 HTTP/1.1" 200 8023
+INFO:root:I am downloading book number 9140 page 177
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/177.html?client=cpb&type=1 HTTP/1.1" 200 6469
+INFO:root:I am downloading book number 9140 page 178
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/178.html?client=cpb&type=1 HTTP/1.1" 200 5405
+INFO:root:I am downloading book number 9140 page 179
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/179.html?client=cpb&type=1 HTTP/1.1" 401 None
+WARNING:root:Missing image! Download is not complete
+INFO:root:Finished downloading book 9140, last page 180
+INFO:root:Start downloading book 9140, start from page 0, to page 200
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/0.html?client=cpb&type=1 HTTP/1.1" 200 1449
+INFO:root:I am downloading book number 9140 page 1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/1.html?client=cpb&type=1 HTTP/1.1" 200 2985
+INFO:root:I am downloading book number 9140 page 2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/2.html?client=cpb&type=1 HTTP/1.1" 200 5526
+INFO:root:I am downloading book number 9140 page 3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/3.html?client=cpb&type=1 HTTP/1.1" 200 6047
+INFO:root:I am downloading book number 9140 page 4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/4.html?client=cpb&type=1 HTTP/1.1" 200 5276
+INFO:root:I am downloading book number 9140 page 5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/5.html?client=cpb&type=1 HTTP/1.1" 200 4982
+INFO:root:I am downloading book number 9140 page 6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/6.html?client=cpb&type=1 HTTP/1.1" 200 9247
+INFO:root:I am downloading book number 9140 page 7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/7.html?client=cpb&type=1 HTTP/1.1" 200 7497
+INFO:root:I am downloading book number 9140 page 8
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/8.html?client=cpb&type=1 HTTP/1.1" 200 9939
+INFO:root:I am downloading book number 9140 page 9
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/9.html?client=cpb&type=1 HTTP/1.1" 200 9034
+INFO:root:I am downloading book number 9140 page 10
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/10.html?client=cpb&type=1 HTTP/1.1" 200 2181
+INFO:root:I am downloading book number 9140 page 11
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/11.html?client=cpb&type=1 HTTP/1.1" 200 4523
+INFO:root:I am downloading book number 9140 page 12
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/12.html?client=cpb&type=1 HTTP/1.1" 200 4785
+INFO:root:I am downloading book number 9140 page 13
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/13.html?client=cpb&type=1 HTTP/1.1" 200 5949
+INFO:root:I am downloading book number 9140 page 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/14.html?client=cpb&type=1 HTTP/1.1" 200 5109
+INFO:root:I am downloading book number 9140 page 15
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/15.html?client=cpb&type=1 HTTP/1.1" 200 4856
+INFO:root:I am downloading book number 9140 page 16
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/16.html?client=cpb&type=1 HTTP/1.1" 200 1526
+INFO:root:I am downloading book number 9140 page 17
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/17.html?client=cpb&type=1 HTTP/1.1" 200 5332
+INFO:root:I am downloading book number 9140 page 18
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/18.html?client=cpb&type=1 HTTP/1.1" 200 3767
+INFO:root:I am downloading book number 9140 page 19
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/19.html?client=cpb&type=1 HTTP/1.1" 200 4884
+INFO:root:I am downloading book number 9140 page 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/20.html?client=cpb&type=1 HTTP/1.1" 200 8679
+INFO:root:I am downloading book number 9140 page 21
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/21.html?client=cpb&type=1 HTTP/1.1" 200 6052
+INFO:root:I am downloading book number 9140 page 22
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/22.html?client=cpb&type=1 HTTP/1.1" 200 9089
+INFO:root:I am downloading book number 9140 page 23
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/23.html?client=cpb&type=1 HTTP/1.1" 200 5460
+INFO:root:I am downloading book number 9140 page 24
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/24.html?client=cpb&type=1 HTTP/1.1" 200 5694
+INFO:root:I am downloading book number 9140 page 25
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/25.html?client=cpb&type=1 HTTP/1.1" 200 5978
+INFO:root:I am downloading book number 9140 page 26
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/26.html?client=cpb&type=1 HTTP/1.1" 200 7719
+INFO:root:I am downloading book number 9140 page 27
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/27.html?client=cpb&type=1 HTTP/1.1" 200 6068
+INFO:root:I am downloading book number 9140 page 28
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/28.html?client=cpb&type=1 HTTP/1.1" 200 5268
+INFO:root:I am downloading book number 9140 page 29
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/29.html?client=cpb&type=1 HTTP/1.1" 200 6593
+INFO:root:I am downloading book number 9140 page 30
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/30.html?client=cpb&type=1 HTTP/1.1" 200 7410
+INFO:root:I am downloading book number 9140 page 31
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/31.html?client=cpb&type=1 HTTP/1.1" 200 7721
+INFO:root:I am downloading book number 9140 page 32
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/32.html?client=cpb&type=1 HTTP/1.1" 200 6173
+INFO:root:I am downloading book number 9140 page 33
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/33.html?client=cpb&type=1 HTTP/1.1" 200 6141
+INFO:root:I am downloading book number 9140 page 34
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/34.html?client=cpb&type=1 HTTP/1.1" 200 6209
+INFO:root:I am downloading book number 9140 page 35
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/35.html?client=cpb&type=1 HTTP/1.1" 200 7316
+INFO:root:I am downloading book number 9140 page 36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/36.html?client=cpb&type=1 HTTP/1.1" 200 7183
+INFO:root:I am downloading book number 9140 page 37
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/37.html?client=cpb&type=1 HTTP/1.1" 200 5484
+INFO:root:I am downloading book number 9140 page 38
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/38.html?client=cpb&type=1 HTTP/1.1" 200 6531
+INFO:root:I am downloading book number 9140 page 39
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/39.html?client=cpb&type=1 HTTP/1.1" 200 7794
+INFO:root:I am downloading book number 9140 page 40
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/40.html?client=cpb&type=1 HTTP/1.1" 200 8255
+INFO:root:I am downloading book number 9140 page 41
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/41.html?client=cpb&type=1 HTTP/1.1" 200 6606
+INFO:root:I am downloading book number 9140 page 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/42.html?client=cpb&type=1 HTTP/1.1" 200 6361
+INFO:root:I am downloading book number 9140 page 43
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/43.html?client=cpb&type=1 HTTP/1.1" 200 6189
+INFO:root:I am downloading book number 9140 page 44
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/44.html?client=cpb&type=1 HTTP/1.1" 200 7635
+INFO:root:I am downloading book number 9140 page 45
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/45.html?client=cpb&type=1 HTTP/1.1" 200 5754
+INFO:root:I am downloading book number 9140 page 46
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/46.html?client=cpb&type=1 HTTP/1.1" 200 6859
+INFO:root:I am downloading book number 9140 page 47
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/47.html?client=cpb&type=1 HTTP/1.1" 200 5463
+INFO:root:I am downloading book number 9140 page 48
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/48.html?client=cpb&type=1 HTTP/1.1" 200 7522
+INFO:root:I am downloading book number 9140 page 49
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/49.html?client=cpb&type=1 HTTP/1.1" 200 5112
+INFO:root:I am downloading book number 9140 page 50
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/50.html?client=cpb&type=1 HTTP/1.1" 200 6591
+INFO:root:I am downloading book number 9140 page 51
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/51.html?client=cpb&type=1 HTTP/1.1" 200 5749
+INFO:root:I am downloading book number 9140 page 52
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/52.html?client=cpb&type=1 HTTP/1.1" 200 5390
+INFO:root:I am downloading book number 9140 page 53
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/53.html?client=cpb&type=1 HTTP/1.1" 200 5243
+INFO:root:I am downloading book number 9140 page 54
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/54.html?client=cpb&type=1 HTTP/1.1" 200 6162
+INFO:root:I am downloading book number 9140 page 55
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/55.html?client=cpb&type=1 HTTP/1.1" 200 5690
+INFO:root:I am downloading book number 9140 page 56
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/56.html?client=cpb&type=1 HTTP/1.1" 200 4459
+INFO:root:I am downloading book number 9140 page 57
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/57.html?client=cpb&type=1 HTTP/1.1" 200 3335
+INFO:root:I am downloading book number 9140 page 58
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/58.html?client=cpb&type=1 HTTP/1.1" 200 320
+INFO:root:I am downloading book number 9140 page 59
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/59.html?client=cpb&type=1 HTTP/1.1" 200 5489
+INFO:root:I am downloading book number 9140 page 60
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/60.html?client=cpb&type=1 HTTP/1.1" 200 2773
+INFO:root:I am downloading book number 9140 page 61
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/61.html?client=cpb&type=1 HTTP/1.1" 200 5948
+INFO:root:I am downloading book number 9140 page 62
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/62.html?client=cpb&type=1 HTTP/1.1" 200 8764
+INFO:root:I am downloading book number 9140 page 63
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/63.html?client=cpb&type=1 HTTP/1.1" 200 7311
+INFO:root:I am downloading book number 9140 page 64
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/64.html?client=cpb&type=1 HTTP/1.1" 200 7424
+INFO:root:I am downloading book number 9140 page 65
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/65.html?client=cpb&type=1 HTTP/1.1" 200 6569
+INFO:root:I am downloading book number 9140 page 66
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/66.html?client=cpb&type=1 HTTP/1.1" 200 7600
+INFO:root:I am downloading book number 9140 page 67
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/67.html?client=cpb&type=1 HTTP/1.1" 200 6212
+INFO:root:I am downloading book number 9140 page 68
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/68.html?client=cpb&type=1 HTTP/1.1" 200 7190
+INFO:root:I am downloading book number 9140 page 69
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/69.html?client=cpb&type=1 HTTP/1.1" 200 8776
+INFO:root:I am downloading book number 9140 page 70
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/70.html?client=cpb&type=1 HTTP/1.1" 200 5195
+INFO:root:I am downloading book number 9140 page 71
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/71.html?client=cpb&type=1 HTTP/1.1" 200 5111
+INFO:root:I am downloading book number 9140 page 72
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/72.html?client=cpb&type=1 HTTP/1.1" 200 5608
+INFO:root:I am downloading book number 9140 page 73
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/73.html?client=cpb&type=1 HTTP/1.1" 200 5147
+INFO:root:I am downloading book number 9140 page 74
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/74.html?client=cpb&type=1 HTTP/1.1" 200 6970
+INFO:root:I am downloading book number 9140 page 75
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/75.html?client=cpb&type=1 HTTP/1.1" 200 6240
+INFO:root:I am downloading book number 9140 page 76
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/76.html?client=cpb&type=1 HTTP/1.1" 200 7519
+INFO:root:I am downloading book number 9140 page 77
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/77.html?client=cpb&type=1 HTTP/1.1" 200 6550
+INFO:root:I am downloading book number 9140 page 78
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/78.html?client=cpb&type=1 HTTP/1.1" 200 7386
+INFO:root:I am downloading book number 9140 page 79
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/79.html?client=cpb&type=1 HTTP/1.1" 200 6527
+INFO:root:I am downloading book number 9140 page 80
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/80.html?client=cpb&type=1 HTTP/1.1" 200 6239
+INFO:root:I am downloading book number 9140 page 81
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/81.html?client=cpb&type=1 HTTP/1.1" 200 6171
+INFO:root:I am downloading book number 9140 page 82
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/82.html?client=cpb&type=1 HTTP/1.1" 200 7479
+INFO:root:I am downloading book number 9140 page 83
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/83.html?client=cpb&type=1 HTTP/1.1" 200 6808
+INFO:root:I am downloading book number 9140 page 84
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/84.html?client=cpb&type=1 HTTP/1.1" 200 7481
+INFO:root:I am downloading book number 9140 page 85
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/85.html?client=cpb&type=1 HTTP/1.1" 200 6662
+INFO:root:I am downloading book number 9140 page 86
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/86.html?client=cpb&type=1 HTTP/1.1" 200 6263
+INFO:root:I am downloading book number 9140 page 87
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/87.html?client=cpb&type=1 HTTP/1.1" 200 7626
+INFO:root:I am downloading book number 9140 page 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/88.html?client=cpb&type=1 HTTP/1.1" 200 4607
+INFO:root:I am downloading book number 9140 page 89
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/89.html?client=cpb&type=1 HTTP/1.1" 200 7842
+INFO:root:I am downloading book number 9140 page 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/90.html?client=cpb&type=1 HTTP/1.1" 200 6285
+INFO:root:I am downloading book number 9140 page 91
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/91.html?client=cpb&type=1 HTTP/1.1" 200 5920
+INFO:root:I am downloading book number 9140 page 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/92.html?client=cpb&type=1 HTTP/1.1" 200 6913
+INFO:root:I am downloading book number 9140 page 93
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/93.html?client=cpb&type=1 HTTP/1.1" 200 7512
+INFO:root:I am downloading book number 9140 page 94
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/94.html?client=cpb&type=1 HTTP/1.1" 200 6593
+INFO:root:I am downloading book number 9140 page 95
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/95.html?client=cpb&type=1 HTTP/1.1" 200 6239
+INFO:root:I am downloading book number 9140 page 96
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/96.html?client=cpb&type=1 HTTP/1.1" 200 6576
+INFO:root:I am downloading book number 9140 page 97
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/97.html?client=cpb&type=1 HTTP/1.1" 200 6827
+INFO:root:I am downloading book number 9140 page 98
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/98.html?client=cpb&type=1 HTTP/1.1" 200 6764
+INFO:root:I am downloading book number 9140 page 99
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/99.html?client=cpb&type=1 HTTP/1.1" 200 6859
+INFO:root:I am downloading book number 9140 page 100
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/100.html?client=cpb&type=1 HTTP/1.1" 200 7890
+INFO:root:I am downloading book number 9140 page 101
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/101.html?client=cpb&type=1 HTTP/1.1" 200 5919
+INFO:root:I am downloading book number 9140 page 102
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/102.html?client=cpb&type=1 HTTP/1.1" 200 7325
+INFO:root:I am downloading book number 9140 page 103
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/103.html?client=cpb&type=1 HTTP/1.1" 200 8907
+INFO:root:I am downloading book number 9140 page 104
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/104.html?client=cpb&type=1 HTTP/1.1" 200 8236
+INFO:root:I am downloading book number 9140 page 105
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/105.html?client=cpb&type=1 HTTP/1.1" 200 6116
+INFO:root:I am downloading book number 9140 page 106
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/106.html?client=cpb&type=1 HTTP/1.1" 200 7158
+INFO:root:I am downloading book number 9140 page 107
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/107.html?client=cpb&type=1 HTTP/1.1" 200 7573
+INFO:root:I am downloading book number 9140 page 108
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/108.html?client=cpb&type=1 HTTP/1.1" 200 6948
+INFO:root:I am downloading book number 9140 page 109
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/109.html?client=cpb&type=1 HTTP/1.1" 200 5433
+INFO:root:I am downloading book number 9140 page 110
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/110.html?client=cpb&type=1 HTTP/1.1" 200 5645
+INFO:root:I am downloading book number 9140 page 111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/111.html?client=cpb&type=1 HTTP/1.1" 200 5427
+INFO:root:I am downloading book number 9140 page 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/112.html?client=cpb&type=1 HTTP/1.1" 200 6582
+INFO:root:I am downloading book number 9140 page 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/113.html?client=cpb&type=1 HTTP/1.1" 200 6453
+INFO:root:I am downloading book number 9140 page 114
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/114.html?client=cpb&type=1 HTTP/1.1" 200 6477
+INFO:root:I am downloading book number 9140 page 115
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/115.html?client=cpb&type=1 HTTP/1.1" 200 5521
+INFO:root:I am downloading book number 9140 page 116
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/116.html?client=cpb&type=1 HTTP/1.1" 200 6269
+INFO:root:I am downloading book number 9140 page 117
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/117.html?client=cpb&type=1 HTTP/1.1" 200 6320
+INFO:root:I am downloading book number 9140 page 118
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/118.html?client=cpb&type=1 HTTP/1.1" 200 6201
+INFO:root:I am downloading book number 9140 page 119
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/119.html?client=cpb&type=1 HTTP/1.1" 200 6363
+INFO:root:I am downloading book number 9140 page 120
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/120.html?client=cpb&type=1 HTTP/1.1" 200 6156
+INFO:root:I am downloading book number 9140 page 121
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/121.html?client=cpb&type=1 HTTP/1.1" 200 5710
+INFO:root:I am downloading book number 9140 page 122
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/122.html?client=cpb&type=1 HTTP/1.1" 200 6758
+INFO:root:I am downloading book number 9140 page 123
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/123.html?client=cpb&type=1 HTTP/1.1" 200 7367
+INFO:root:I am downloading book number 9140 page 124
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/124.html?client=cpb&type=1 HTTP/1.1" 200 6932
+INFO:root:I am downloading book number 9140 page 125
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/125.html?client=cpb&type=1 HTTP/1.1" 200 6680
+INFO:root:I am downloading book number 9140 page 126
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/126.html?client=cpb&type=1 HTTP/1.1" 200 7708
+INFO:root:I am downloading book number 9140 page 127
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/127.html?client=cpb&type=1 HTTP/1.1" 200 4359
+INFO:root:I am downloading book number 9140 page 128
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/128.html?client=cpb&type=1 HTTP/1.1" 200 5840
+INFO:root:I am downloading book number 9140 page 129
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/129.html?client=cpb&type=1 HTTP/1.1" 200 5492
+INFO:root:I am downloading book number 9140 page 130
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/130.html?client=cpb&type=1 HTTP/1.1" 200 5512
+INFO:root:I am downloading book number 9140 page 131
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/131.html?client=cpb&type=1 HTTP/1.1" 200 6872
+INFO:root:I am downloading book number 9140 page 132
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/132.html?client=cpb&type=1 HTTP/1.1" 200 4843
+INFO:root:I am downloading book number 9140 page 133
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/133.html?client=cpb&type=1 HTTP/1.1" 200 6418
+INFO:root:I am downloading book number 9140 page 134
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/134.html?client=cpb&type=1 HTTP/1.1" 200 3961
+INFO:root:I am downloading book number 9140 page 135
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/135.html?client=cpb&type=1 HTTP/1.1" 200 5001
+INFO:root:I am downloading book number 9140 page 136
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/136.html?client=cpb&type=1 HTTP/1.1" 200 5096
+INFO:root:I am downloading book number 9140 page 137
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/137.html?client=cpb&type=1 HTTP/1.1" 200 3614
+INFO:root:I am downloading book number 9140 page 138
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/138.html?client=cpb&type=1 HTTP/1.1" 200 321
+INFO:root:I am downloading book number 9140 page 139
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/139.html?client=cpb&type=1 HTTP/1.1" 200 4700
+INFO:root:I am downloading book number 9140 page 140
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/140.html?client=cpb&type=1 HTTP/1.1" 200 2485
+INFO:root:I am downloading book number 9140 page 141
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/141.html?client=cpb&type=1 HTTP/1.1" 200 5866
+INFO:root:I am downloading book number 9140 page 142
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/142.html?client=cpb&type=1 HTTP/1.1" 200 6618
+INFO:root:I am downloading book number 9140 page 143
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/143.html?client=cpb&type=1 HTTP/1.1" 200 7232
+INFO:root:I am downloading book number 9140 page 144
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/144.html?client=cpb&type=1 HTTP/1.1" 200 5932
+INFO:root:I am downloading book number 9140 page 145
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/145.html?client=cpb&type=1 HTTP/1.1" 200 6888
+INFO:root:I am downloading book number 9140 page 146
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/146.html?client=cpb&type=1 HTTP/1.1" 200 7212
+INFO:root:I am downloading book number 9140 page 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/147.html?client=cpb&type=1 HTTP/1.1" 200 5990
+INFO:root:I am downloading book number 9140 page 148
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/148.html?client=cpb&type=1 HTTP/1.1" 200 5092
+INFO:root:I am downloading book number 9140 page 149
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/149.html?client=cpb&type=1 HTTP/1.1" 200 6033
+INFO:root:I am downloading book number 9140 page 150
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/150.html?client=cpb&type=1 HTTP/1.1" 200 6402
+INFO:root:I am downloading book number 9140 page 151
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/151.html?client=cpb&type=1 HTTP/1.1" 200 5252
+INFO:root:I am downloading book number 9140 page 152
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/152.html?client=cpb&type=1 HTTP/1.1" 200 5661
+INFO:root:I am downloading book number 9140 page 153
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/153.html?client=cpb&type=1 HTTP/1.1" 200 5139
+INFO:root:I am downloading book number 9140 page 154
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/154.html?client=cpb&type=1 HTTP/1.1" 200 5759
+INFO:root:I am downloading book number 9140 page 155
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/155.html?client=cpb&type=1 HTTP/1.1" 200 6096
+INFO:root:I am downloading book number 9140 page 156
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/156.html?client=cpb&type=1 HTTP/1.1" 401 None
+WARNING:root:Missing image! Download is not complete
+INFO:root:Finished downloading book 9140, last page 157
+INFO:root:Start downloading book 9140, start from page 0, to page 200
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/0.html?client=cpb&type=1 HTTP/1.1" 200 1449
+INFO:root:I am downloading book number 9140 page 1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/1.html?client=cpb&type=1 HTTP/1.1" 200 2985
+INFO:root:I am downloading book number 9140 page 2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/2.html?client=cpb&type=1 HTTP/1.1" 200 5526
+INFO:root:I am downloading book number 9140 page 3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/3.html?client=cpb&type=1 HTTP/1.1" 200 6047
+INFO:root:I am downloading book number 9140 page 4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/4.html?client=cpb&type=1 HTTP/1.1" 200 5276
+INFO:root:I am downloading book number 9140 page 5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/5.html?client=cpb&type=1 HTTP/1.1" 200 4982
+INFO:root:I am downloading book number 9140 page 6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/6.html?client=cpb&type=1 HTTP/1.1" 200 9247
+INFO:root:I am downloading book number 9140 page 7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/7.html?client=cpb&type=1 HTTP/1.1" 200 7497
+INFO:root:I am downloading book number 9140 page 8
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/8.html?client=cpb&type=1 HTTP/1.1" 200 9939
+INFO:root:I am downloading book number 9140 page 9
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/9.html?client=cpb&type=1 HTTP/1.1" 200 9034
+INFO:root:I am downloading book number 9140 page 10
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/10.html?client=cpb&type=1 HTTP/1.1" 200 2181
+INFO:root:I am downloading book number 9140 page 11
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/11.html?client=cpb&type=1 HTTP/1.1" 200 4523
+INFO:root:I am downloading book number 9140 page 12
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/12.html?client=cpb&type=1 HTTP/1.1" 200 4785
+INFO:root:I am downloading book number 9140 page 13
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/13.html?client=cpb&type=1 HTTP/1.1" 200 5949
+INFO:root:I am downloading book number 9140 page 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/14.html?client=cpb&type=1 HTTP/1.1" 200 5109
+INFO:root:I am downloading book number 9140 page 15
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/15.html?client=cpb&type=1 HTTP/1.1" 200 4856
+INFO:root:I am downloading book number 9140 page 16
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/16.html?client=cpb&type=1 HTTP/1.1" 200 1526
+INFO:root:I am downloading book number 9140 page 17
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/17.html?client=cpb&type=1 HTTP/1.1" 200 5332
+INFO:root:I am downloading book number 9140 page 18
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/18.html?client=cpb&type=1 HTTP/1.1" 200 3767
+INFO:root:I am downloading book number 9140 page 19
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/19.html?client=cpb&type=1 HTTP/1.1" 200 4884
+INFO:root:I am downloading book number 9140 page 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/20.html?client=cpb&type=1 HTTP/1.1" 200 8679
+INFO:root:I am downloading book number 9140 page 21
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/21.html?client=cpb&type=1 HTTP/1.1" 200 6052
+INFO:root:I am downloading book number 9140 page 22
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/22.html?client=cpb&type=1 HTTP/1.1" 200 9089
+INFO:root:I am downloading book number 9140 page 23
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/23.html?client=cpb&type=1 HTTP/1.1" 200 5460
+INFO:root:I am downloading book number 9140 page 24
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/24.html?client=cpb&type=1 HTTP/1.1" 200 5694
+INFO:root:I am downloading book number 9140 page 25
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/25.html?client=cpb&type=1 HTTP/1.1" 200 5978
+INFO:root:I am downloading book number 9140 page 26
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/26.html?client=cpb&type=1 HTTP/1.1" 200 7719
+INFO:root:I am downloading book number 9140 page 27
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/27.html?client=cpb&type=1 HTTP/1.1" 200 6068
+INFO:root:I am downloading book number 9140 page 28
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/28.html?client=cpb&type=1 HTTP/1.1" 200 5268
+INFO:root:I am downloading book number 9140 page 29
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/29.html?client=cpb&type=1 HTTP/1.1" 200 6593
+INFO:root:I am downloading book number 9140 page 30
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/30.html?client=cpb&type=1 HTTP/1.1" 200 7410
+INFO:root:I am downloading book number 9140 page 31
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/31.html?client=cpb&type=1 HTTP/1.1" 200 7721
+INFO:root:I am downloading book number 9140 page 32
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/32.html?client=cpb&type=1 HTTP/1.1" 200 6173
+INFO:root:I am downloading book number 9140 page 33
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/33.html?client=cpb&type=1 HTTP/1.1" 200 6141
+INFO:root:I am downloading book number 9140 page 34
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/34.html?client=cpb&type=1 HTTP/1.1" 200 6209
+INFO:root:I am downloading book number 9140 page 35
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/35.html?client=cpb&type=1 HTTP/1.1" 200 7316
+INFO:root:I am downloading book number 9140 page 36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/36.html?client=cpb&type=1 HTTP/1.1" 200 7183
+INFO:root:I am downloading book number 9140 page 37
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/37.html?client=cpb&type=1 HTTP/1.1" 200 5484
+INFO:root:I am downloading book number 9140 page 38
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/38.html?client=cpb&type=1 HTTP/1.1" 200 6531
+INFO:root:I am downloading book number 9140 page 39
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/39.html?client=cpb&type=1 HTTP/1.1" 200 7794
+INFO:root:I am downloading book number 9140 page 40
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/40.html?client=cpb&type=1 HTTP/1.1" 200 8255
+INFO:root:I am downloading book number 9140 page 41
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/41.html?client=cpb&type=1 HTTP/1.1" 200 6606
+INFO:root:I am downloading book number 9140 page 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/42.html?client=cpb&type=1 HTTP/1.1" 200 6361
+INFO:root:I am downloading book number 9140 page 43
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/43.html?client=cpb&type=1 HTTP/1.1" 200 6189
+INFO:root:I am downloading book number 9140 page 44
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/44.html?client=cpb&type=1 HTTP/1.1" 200 7635
+INFO:root:I am downloading book number 9140 page 45
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/45.html?client=cpb&type=1 HTTP/1.1" 200 5754
+INFO:root:I am downloading book number 9140 page 46
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/46.html?client=cpb&type=1 HTTP/1.1" 200 6859
+INFO:root:I am downloading book number 9140 page 47
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/47.html?client=cpb&type=1 HTTP/1.1" 200 5463
+INFO:root:I am downloading book number 9140 page 48
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/48.html?client=cpb&type=1 HTTP/1.1" 200 7522
+INFO:root:I am downloading book number 9140 page 49
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/49.html?client=cpb&type=1 HTTP/1.1" 200 5112
+INFO:root:I am downloading book number 9140 page 50
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/50.html?client=cpb&type=1 HTTP/1.1" 200 6591
+INFO:root:I am downloading book number 9140 page 51
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/51.html?client=cpb&type=1 HTTP/1.1" 200 5749
+INFO:root:I am downloading book number 9140 page 52
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/52.html?client=cpb&type=1 HTTP/1.1" 200 5390
+INFO:root:I am downloading book number 9140 page 53
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/53.html?client=cpb&type=1 HTTP/1.1" 200 5243
+INFO:root:I am downloading book number 9140 page 54
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/54.html?client=cpb&type=1 HTTP/1.1" 200 6162
+INFO:root:I am downloading book number 9140 page 55
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/55.html?client=cpb&type=1 HTTP/1.1" 200 5690
+INFO:root:I am downloading book number 9140 page 56
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/56.html?client=cpb&type=1 HTTP/1.1" 200 4459
+INFO:root:I am downloading book number 9140 page 57
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/57.html?client=cpb&type=1 HTTP/1.1" 200 3335
+INFO:root:I am downloading book number 9140 page 58
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/58.html?client=cpb&type=1 HTTP/1.1" 200 320
+INFO:root:I am downloading book number 9140 page 59
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/59.html?client=cpb&type=1 HTTP/1.1" 200 5489
+INFO:root:I am downloading book number 9140 page 60
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/60.html?client=cpb&type=1 HTTP/1.1" 200 2773
+INFO:root:I am downloading book number 9140 page 61
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/61.html?client=cpb&type=1 HTTP/1.1" 200 5948
+INFO:root:I am downloading book number 9140 page 62
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/62.html?client=cpb&type=1 HTTP/1.1" 200 8764
+INFO:root:I am downloading book number 9140 page 63
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/63.html?client=cpb&type=1 HTTP/1.1" 200 7311
+INFO:root:I am downloading book number 9140 page 64
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/64.html?client=cpb&type=1 HTTP/1.1" 200 7424
+INFO:root:I am downloading book number 9140 page 65
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/65.html?client=cpb&type=1 HTTP/1.1" 200 6569
+INFO:root:I am downloading book number 9140 page 66
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/66.html?client=cpb&type=1 HTTP/1.1" 200 7600
+INFO:root:I am downloading book number 9140 page 67
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/67.html?client=cpb&type=1 HTTP/1.1" 200 6212
+INFO:root:I am downloading book number 9140 page 68
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/68.html?client=cpb&type=1 HTTP/1.1" 200 7190
+INFO:root:I am downloading book number 9140 page 69
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/69.html?client=cpb&type=1 HTTP/1.1" 200 8776
+INFO:root:I am downloading book number 9140 page 70
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/70.html?client=cpb&type=1 HTTP/1.1" 200 5195
+INFO:root:I am downloading book number 9140 page 71
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/71.html?client=cpb&type=1 HTTP/1.1" 200 5111
+INFO:root:I am downloading book number 9140 page 72
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/72.html?client=cpb&type=1 HTTP/1.1" 200 5608
+INFO:root:I am downloading book number 9140 page 73
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/73.html?client=cpb&type=1 HTTP/1.1" 200 5147
+INFO:root:I am downloading book number 9140 page 74
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/74.html?client=cpb&type=1 HTTP/1.1" 200 6970
+INFO:root:I am downloading book number 9140 page 75
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/75.html?client=cpb&type=1 HTTP/1.1" 200 6240
+INFO:root:I am downloading book number 9140 page 76
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/76.html?client=cpb&type=1 HTTP/1.1" 200 7519
+INFO:root:I am downloading book number 9140 page 77
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/77.html?client=cpb&type=1 HTTP/1.1" 200 6550
+INFO:root:I am downloading book number 9140 page 78
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/78.html?client=cpb&type=1 HTTP/1.1" 200 7386
+INFO:root:I am downloading book number 9140 page 79
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/79.html?client=cpb&type=1 HTTP/1.1" 200 6527
+INFO:root:I am downloading book number 9140 page 80
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/80.html?client=cpb&type=1 HTTP/1.1" 200 6239
+INFO:root:I am downloading book number 9140 page 81
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/81.html?client=cpb&type=1 HTTP/1.1" 200 6171
+INFO:root:I am downloading book number 9140 page 82
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/82.html?client=cpb&type=1 HTTP/1.1" 200 7479
+INFO:root:I am downloading book number 9140 page 83
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/83.html?client=cpb&type=1 HTTP/1.1" 200 6808
+INFO:root:I am downloading book number 9140 page 84
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/84.html?client=cpb&type=1 HTTP/1.1" 200 7481
+INFO:root:I am downloading book number 9140 page 85
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/85.html?client=cpb&type=1 HTTP/1.1" 200 6662
+INFO:root:I am downloading book number 9140 page 86
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/86.html?client=cpb&type=1 HTTP/1.1" 200 6263
+INFO:root:I am downloading book number 9140 page 87
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/87.html?client=cpb&type=1 HTTP/1.1" 200 7626
+INFO:root:I am downloading book number 9140 page 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/88.html?client=cpb&type=1 HTTP/1.1" 200 4607
+INFO:root:I am downloading book number 9140 page 89
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/89.html?client=cpb&type=1 HTTP/1.1" 200 7842
+INFO:root:I am downloading book number 9140 page 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/90.html?client=cpb&type=1 HTTP/1.1" 200 6285
+INFO:root:I am downloading book number 9140 page 91
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/91.html?client=cpb&type=1 HTTP/1.1" 200 5920
+INFO:root:I am downloading book number 9140 page 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/92.html?client=cpb&type=1 HTTP/1.1" 200 6913
+INFO:root:I am downloading book number 9140 page 93
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/93.html?client=cpb&type=1 HTTP/1.1" 200 7512
+INFO:root:I am downloading book number 9140 page 94
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/94.html?client=cpb&type=1 HTTP/1.1" 200 6593
+INFO:root:I am downloading book number 9140 page 95
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/95.html?client=cpb&type=1 HTTP/1.1" 200 6239
+INFO:root:I am downloading book number 9140 page 96
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/96.html?client=cpb&type=1 HTTP/1.1" 200 6576
+INFO:root:I am downloading book number 9140 page 97
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/97.html?client=cpb&type=1 HTTP/1.1" 200 6827
+INFO:root:I am downloading book number 9140 page 98
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/98.html?client=cpb&type=1 HTTP/1.1" 200 6764
+INFO:root:I am downloading book number 9140 page 99
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/99.html?client=cpb&type=1 HTTP/1.1" 200 6859
+INFO:root:I am downloading book number 9140 page 100
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/100.html?client=cpb&type=1 HTTP/1.1" 200 7890
+INFO:root:I am downloading book number 9140 page 101
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/101.html?client=cpb&type=1 HTTP/1.1" 200 5919
+INFO:root:I am downloading book number 9140 page 102
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/102.html?client=cpb&type=1 HTTP/1.1" 200 7325
+INFO:root:I am downloading book number 9140 page 103
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/103.html?client=cpb&type=1 HTTP/1.1" 200 8907
+INFO:root:I am downloading book number 9140 page 104
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/104.html?client=cpb&type=1 HTTP/1.1" 200 8236
+INFO:root:I am downloading book number 9140 page 105
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/105.html?client=cpb&type=1 HTTP/1.1" 200 6116
+INFO:root:I am downloading book number 9140 page 106
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/106.html?client=cpb&type=1 HTTP/1.1" 200 7158
+INFO:root:I am downloading book number 9140 page 107
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/107.html?client=cpb&type=1 HTTP/1.1" 200 7573
+INFO:root:I am downloading book number 9140 page 108
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/108.html?client=cpb&type=1 HTTP/1.1" 200 6948
+INFO:root:I am downloading book number 9140 page 109
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/109.html?client=cpb&type=1 HTTP/1.1" 200 5433
+INFO:root:I am downloading book number 9140 page 110
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/110.html?client=cpb&type=1 HTTP/1.1" 200 5645
+INFO:root:I am downloading book number 9140 page 111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/111.html?client=cpb&type=1 HTTP/1.1" 200 5427
+INFO:root:I am downloading book number 9140 page 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/112.html?client=cpb&type=1 HTTP/1.1" 200 6582
+INFO:root:I am downloading book number 9140 page 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/113.html?client=cpb&type=1 HTTP/1.1" 200 6453
+INFO:root:I am downloading book number 9140 page 114
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/114.html?client=cpb&type=1 HTTP/1.1" 200 6477
+INFO:root:I am downloading book number 9140 page 115
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/115.html?client=cpb&type=1 HTTP/1.1" 200 5521
+INFO:root:I am downloading book number 9140 page 116
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/116.html?client=cpb&type=1 HTTP/1.1" 200 6269
+INFO:root:I am downloading book number 9140 page 117
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/117.html?client=cpb&type=1 HTTP/1.1" 200 6320
+INFO:root:I am downloading book number 9140 page 118
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/118.html?client=cpb&type=1 HTTP/1.1" 200 6201
+INFO:root:I am downloading book number 9140 page 119
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/119.html?client=cpb&type=1 HTTP/1.1" 200 6363
+INFO:root:I am downloading book number 9140 page 120
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/120.html?client=cpb&type=1 HTTP/1.1" 200 6156
+INFO:root:I am downloading book number 9140 page 121
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/121.html?client=cpb&type=1 HTTP/1.1" 200 5710
+INFO:root:I am downloading book number 9140 page 122
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/122.html?client=cpb&type=1 HTTP/1.1" 200 6758
+INFO:root:I am downloading book number 9140 page 123
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/123.html?client=cpb&type=1 HTTP/1.1" 200 7367
+INFO:root:I am downloading book number 9140 page 124
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/124.html?client=cpb&type=1 HTTP/1.1" 200 6932
+INFO:root:I am downloading book number 9140 page 125
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/125.html?client=cpb&type=1 HTTP/1.1" 200 6680
+INFO:root:I am downloading book number 9140 page 126
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/126.html?client=cpb&type=1 HTTP/1.1" 200 7708
+INFO:root:I am downloading book number 9140 page 127
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/127.html?client=cpb&type=1 HTTP/1.1" 200 4359
+INFO:root:I am downloading book number 9140 page 128
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/128.html?client=cpb&type=1 HTTP/1.1" 200 5840
+INFO:root:I am downloading book number 9140 page 129
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/129.html?client=cpb&type=1 HTTP/1.1" 200 5492
+INFO:root:I am downloading book number 9140 page 130
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/130.html?client=cpb&type=1 HTTP/1.1" 200 5512
+INFO:root:I am downloading book number 9140 page 131
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/131.html?client=cpb&type=1 HTTP/1.1" 200 6872
+INFO:root:I am downloading book number 9140 page 132
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/132.html?client=cpb&type=1 HTTP/1.1" 200 4843
+INFO:root:I am downloading book number 9140 page 133
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/133.html?client=cpb&type=1 HTTP/1.1" 200 6418
+INFO:root:I am downloading book number 9140 page 134
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/134.html?client=cpb&type=1 HTTP/1.1" 200 3961
+INFO:root:I am downloading book number 9140 page 135
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/135.html?client=cpb&type=1 HTTP/1.1" 200 5001
+INFO:root:I am downloading book number 9140 page 136
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/136.html?client=cpb&type=1 HTTP/1.1" 200 5096
+INFO:root:I am downloading book number 9140 page 137
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/137.html?client=cpb&type=1 HTTP/1.1" 200 3614
+INFO:root:I am downloading book number 9140 page 138
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/138.html?client=cpb&type=1 HTTP/1.1" 200 321
+INFO:root:I am downloading book number 9140 page 139
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/139.html?client=cpb&type=1 HTTP/1.1" 200 4700
+INFO:root:I am downloading book number 9140 page 140
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/140.html?client=cpb&type=1 HTTP/1.1" 200 2485
+INFO:root:I am downloading book number 9140 page 141
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/141.html?client=cpb&type=1 HTTP/1.1" 200 5866
+INFO:root:I am downloading book number 9140 page 142
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/142.html?client=cpb&type=1 HTTP/1.1" 200 6618
+INFO:root:I am downloading book number 9140 page 143
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/143.html?client=cpb&type=1 HTTP/1.1" 200 7232
+INFO:root:I am downloading book number 9140 page 144
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/144.html?client=cpb&type=1 HTTP/1.1" 200 5932
+INFO:root:I am downloading book number 9140 page 145
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/145.html?client=cpb&type=1 HTTP/1.1" 200 6888
+INFO:root:I am downloading book number 9140 page 146
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/146.html?client=cpb&type=1 HTTP/1.1" 200 7212
+INFO:root:I am downloading book number 9140 page 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/147.html?client=cpb&type=1 HTTP/1.1" 200 5990
+INFO:root:I am downloading book number 9140 page 148
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cambridgepub.com:443
+DEBUG:urllib3.connectionpool:https://cambridgepub.com:443 "GET /ereader/103/9140/148.html?client=cpb&type=1 HTTP/1.1" 401 None
+WARNING:root:Missing image! Download is not complete
+INFO:root:Finished downloading book 9140, last page 149
