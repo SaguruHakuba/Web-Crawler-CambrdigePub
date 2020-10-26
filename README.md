@@ -1,2 +1,3 @@
 # Web-Crawler-CambridgePub
-My first python web crawler, only for study usage, no commercial.
+
+This project is my first python web crawler, collecting online e-book data resources only for study and test usages, non commercial.
